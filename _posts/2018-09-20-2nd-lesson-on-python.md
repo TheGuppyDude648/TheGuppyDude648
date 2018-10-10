@@ -1,5 +1,5 @@
 ---
-title: 2nd lesson on python
+title: attempting a new website
 layout: post
 author: sebastian.mukherjee
 permalink: /2nd-lesson-on-python/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>2nd lesson on Python</td>
+    <td>attempting a new website</td>
     <td>Date</td>
-    <td>16.9.18</td>
+    <td>10.10.18</td>
   </tr>
 </table>
 
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Carrying on from where i had left off before.</td>
+    <td>Lstening to Mr Keen explain what to do</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To finish my work in class.</td>
+    <td>To make a good effort to switch website.</td>
   </tr>
   <tr>
     <td>Did i reach my target?</td>
-    <td>No, sadly.</td>
+    <td>Yes.</td>
   </tr>
 </table>
 
@@ -39,30 +39,30 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I kept going and going, and I did do well, but just didn't finish my work.</td>
+    <td>I kept on reading the tutorial over and over again.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I didn’t ask any questions today.</td>
+    <td>I didn't ask any questions today.</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I was very independent in lesson.</td>
+    <td>I was very independent in today’s lesson.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I reflected on how far i had gone this lesson.</td>
+    <td>I reflected back and forth from the two websites to see which one i liked more.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I engaged very hard in the work at hand.</td>
+    <td>I engaged very well in my work today.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>I could have finished my work, and then it would have been a lot better.</td>
+    <td>If i had done more i guess, but i am happy with what has been accomplished this lesson.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Get the work done, so i don’t have to restart next lesson.</td>
+    <td>Maybe complete the full website so then i can make the cut from one ot the other.</td>
     <td></td>
   </tr>
 </table>
