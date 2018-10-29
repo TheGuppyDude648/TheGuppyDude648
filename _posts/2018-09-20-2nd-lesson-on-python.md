@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>attempting a new website</td>
+    <td>More python</td>
     <td>Date</td>
-    <td>10.10.18</td>
+    <td>29.10.18</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Lstening to Mr Keen explain what to do</td>
+    <td>Carrying on from where i finished last lesson.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To make a good effort to switch website.</td>
+    <td>To get as far as i can in python coding.</td>
   </tr>
   <tr>
     <td>Did i reach my target?</td>
@@ -47,22 +47,22 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I was very independent in today’s lesson.</td>
+    <td>I was independent today.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I reflected back and forth from the two websites to see which one i liked more.</td>
+    <td>I reflected on the work i had completed today.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I engaged very well in my work today.</td>
+    <td>I engaged hard in the task at hand.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>If i had done more i guess, but i am happy with what has been accomplished this lesson.</td>
+    <td>If i got further in my work, but i did my best today.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Maybe complete the full website so then i can make the cut from one ot the other.</td>
+    <td>Nothing today, because i did the best i could do and i am satisfied with it.</td>
     <td></td>
   </tr>
 </table>
