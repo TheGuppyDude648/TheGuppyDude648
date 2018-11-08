@@ -1,5 +1,5 @@
 ---
-title: attempting a new website
+title: Python
 layout: post
 author: sebastian.mukherjee
 permalink: /2nd-lesson-on-python/
@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To get as far as i can in python coding.</td>
+    <td>To complete at least 1 set of coding.</td>
   </tr>
   <tr>
     <td>Did i reach my target?</td>
@@ -39,7 +39,7 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I kept on reading the tutorial over and over again.</td>
+    <td>I kept on trying new codes and never gave up.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
@@ -47,22 +47,22 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I was independent today.</td>
+    <td>I did not ask anyone any questions and didn’t need any help.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I reflected on the work i had completed today.</td>
+    <td>I reflected on my work.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I engaged hard in the task at hand.</td>
+    <td>I engaged really hard today in the learning.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>If i got further in my work, but i did my best today.</td>
+    <td>Getting further than i wanted to maybe, but i did my best today.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Nothing today, because i did the best i could do and i am satisfied with it.</td>
+    <td>Maybe focus harder on the work, and never lose concentration.</td>
     <td></td>
   </tr>
 </table>
